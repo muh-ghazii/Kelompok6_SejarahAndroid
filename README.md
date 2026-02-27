@@ -1,6 +1,6 @@
 # Sejarah Android - Pemrograman Mobile
 ## Tugas Kelompok Pemrograman Mobile 
-Nama : 
+Nama Anggota Kelompok: 
 1. M. Anshary (2410817310008)<br>
 2. Athaya Laily Syafitri (2310817220008)<br>
 3. Muhammad Ghazi Rakhmadi (2410817310009)<br>
